@@ -1,0 +1,14 @@
+Name of the student : Abhay Singh 
+Class Roll of the student : 14 
+Stream of the student : CSE 
+Your Student ID is : CSE2614
+
+Marks obtained in Math is : 85 
+Marks obtained in Python is : 90 
+Marks obtained in Physics is : 95 
+Marks obtained in Chemistry is : null 
+Marks obtained in Biology is : 65 
+Marks obtained in English is : 90 
+
+You have got 425 in total with 70%
+Excellent Performance... You have passed the exam with grade B.

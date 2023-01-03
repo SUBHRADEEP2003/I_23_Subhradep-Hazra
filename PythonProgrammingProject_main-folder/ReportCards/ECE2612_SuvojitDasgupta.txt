@@ -1,0 +1,14 @@
+Name of the student : Suvojit Dasgupta 
+Class Roll of the student : 12 
+Stream of the student : ECE 
+Your Student ID is : ECE2612
+
+Marks obtained in Math is : 99 
+Marks obtained in Python is : 95 
+Marks obtained in Physics is : null 
+Marks obtained in Chemistry is : 79 
+Marks obtained in Biology is : 95 
+Marks obtained in English is : 85 
+
+You have got 453 in total with 90%
+Outstanding Performance... You have passed the exam with grade A.
